@@ -6,7 +6,7 @@
 # VsCode 快捷键有五种组合方式（科普）
 
 1. `Ctrl + Shift + ?` : 这种常规组合按钮
-2. `Ctrl + V Ctrl + V` : 同时依赖一个按键的组合
+2. `Ctrl + C Ctrl + V` : 同时依赖一个按键的组合
 3. `Shift + V c` : 先组合后单键的输入
 4. `Ctrl + Click`: 键盘 + 鼠标点击
 5. `Ctrl + DragMouse` : 键盘 + 鼠标拖动
@@ -33,8 +33,8 @@
 |:---|:---|
 |Ctrl + X|剪切|
 |Ctrl + C|复制|
-|Alt + up/down|移动行上下|
-|Shift + Alt up/down|在当前行上下复制当前行|
+|Alt + ↑/↓|移动行上下|
+|Shift + Alt + ↑/↓|在当前行上下复制当前行|
 |Ctrl + Shift + K|删除行|
 |Ctrl + Enter|在当前行下插入新的一行|
 |Ctrl + Shift + Enter|在当前行上插入新的一行|
@@ -44,7 +44,7 @@
 |End|光标跳转到行尾|
 |Ctrl + Home|跳转到页头|
 |Ctrl + End|跳转到页尾|
-|Ctrl + up/down|行视图上下偏移|
+|Ctrl + ↑/↓|行视图上下偏移|
 |Alt + PgUp/PgDown|屏视图上下偏移|
 |Ctrl + Shift + [ | 折叠区域代码|
 |Ctrl + Shift + ] | 展开区域代码|
@@ -103,7 +103,7 @@
 |快捷键|作用|
 |:---|:---|
 |Alt + Click|插入光标-支持多个|
-|Ctrl + Alt + up/down|上下插入光标-支持多个|
+|Ctrl + Alt + ↑/↓|上下插入光标-支持多个|
 |Ctrl + U|撤销最后一次光标操作|
 |Shift + Alt + I|插入光标到选中范围内所有行结束符|
 |Ctrl + I|选中当前行|

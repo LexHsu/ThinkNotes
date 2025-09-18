@@ -6,7 +6,7 @@
 # VsCode 快捷键有五种组合方式（科普）
 
 1. `Ctrl + Shift + ?` : 这种常规组合按钮
-2. `Ctrl + C Ctrl + V` : 同时依赖一个按键的组合
+2. `Ctrl + K Ctrl + [` : 同时依赖一个按键的组合，该组合键表示折叠区域代码
 3. `Shift + V c` : 先组合后单键的输入
 4. `Ctrl + Click`: 键盘 + 鼠标点击
 5. `Ctrl + DragMouse` : 键盘 + 鼠标拖动
@@ -33,8 +33,10 @@
 |:---|:---|
 |Ctrl + X|剪切|
 |Ctrl + C|复制|
+|Ctrl + Z|撤销|
+|Ctrl + Shift + Z|恢复|
 |Alt + ↑/↓|移动行上下|
-|Shift + Alt + ↑/↓|在当前行上下复制当前行|
+|Alt + Shift + ↑/↓|在当前行上下复制当前行|
 |Ctrl + Shift + K|删除行|
 |Ctrl + Enter|在当前行下插入新的一行|
 |Ctrl + Shift + Enter|在当前行上插入新的一行|
